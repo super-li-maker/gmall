@@ -1,0 +1,9 @@
+#server配置
+server:
+  port: 8000
+
+
+#spring配置
+spring:
+  profiles:
+    active: druid

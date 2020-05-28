@@ -1,4 +1,4 @@
-package com.mlzq.gmall;
+package com.mlzq.pojo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
